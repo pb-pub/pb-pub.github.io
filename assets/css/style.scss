@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Ajoutez vos personnalisations CSS ici */
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+header {
+  margin-bottom: 30px;
+}
+
+.main-content {
+  max-width: 800px;
+}
+
+h1, h2, h3 {
+  color: #159957;
+}
